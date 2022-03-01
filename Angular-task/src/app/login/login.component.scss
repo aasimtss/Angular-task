@@ -1,0 +1,14 @@
+.container {
+  border-radius: 35px;
+}
+
+input.ng-invalid {
+  border: 2px solid red;
+}
+input.ng-valid {
+  border: 2px solid green;
+}
+label {
+  font-size: 20px;
+  font-weight: bold;
+}
